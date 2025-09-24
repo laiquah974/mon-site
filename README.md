@@ -1,13 +1,12 @@
 <!DOCTYPE html>
 <html>
  <head>
-  <title>Master CTM</title>
   <meta charset="utf-8">
 </head>
 <body>
 
- <h1>Master <em>Communication, technologies de la connaissance et management de l'information</em></h1>
- <p>Bienvenue dans le <strong> Master CTM, ça c'est génial </strong> </p>
+ <h1>Projet HTML - Master CTM </h1>
+ <p> Exemple de code </p>
 
 </body>
 </html>
